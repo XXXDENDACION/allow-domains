@@ -248,6 +248,7 @@ ipset=/gamesrepack.com/vpn_domains
 ipset=/geforcenow.com/vpn_domains
 ipset=/gelbooru.com/vpn_domains
 ipset=/gemini.google.com/vpn_domains
+ipset=/business.gemini.google.com/vpn_domains
 ipset=/geni.us/vpn_domains
 ipset=/genius.com/vpn_domains
 ipset=/germania.one/vpn_domains

@@ -826,6 +826,7 @@
 /ip dns static add name=youtubei.googleapis.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=news.google.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=gemini.google.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=business.gemini.google.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=suggestqueries.google.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=copilot.microsoft.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=builds.parsec.app type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
